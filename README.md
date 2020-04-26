@@ -1,5 +1,7 @@
 # Apache Spark aggregation, filtering and cube calculation of large sets of txt files
 
+## Getting Started
+
 ## Steps
 
 * Read all txt files from disk and create an RDD
